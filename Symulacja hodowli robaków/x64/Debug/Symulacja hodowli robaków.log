@@ -1,0 +1,94 @@
+﻿  Animation.cpp
+  Collider.cpp
+  CreateSpiders.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\createspiders.cpp(41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\createspiders.cpp(48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\createspiders.cpp(94): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  EditMapScreen.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\editmapscreen.cpp(13): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\editmapscreen.cpp(13): warning C4244: "argument": konwersja z "const float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\editmapscreen.cpp(17): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\editmapscreen.cpp(18): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\editmapscreen.cpp(113): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\editmapscreen.cpp(114): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Eggs.cpp
+  Food.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\food.cpp(72): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\food.cpp(100): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\food.cpp(101): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\food.cpp(102): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\food.cpp(103): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\food.cpp(113): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  GameScreen.cpp
+  main.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\main.cpp(17): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+  MapS.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\maps.cpp(43): warning C4244: "argument": konwersja z "const float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\maps.cpp(215): warning C4244: "argument": konwersja z "const float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Options.cpp
+  PauseScreen.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\pausescreen.cpp(35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\pausescreen.cpp(36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\pausescreen.cpp(45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\pausescreen.cpp(46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  RunScreen.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(13): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(13): warning C4244: "argument": konwersja z "const float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(17): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(18): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(163): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(166): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(191): warning C4305: "-=": obcięcie z "double" do "float"
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(197): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\runscreen.cpp(200): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  ScreenManager.cpp
+  SettingsScreen.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\settingsscreen.cpp(36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\settingsscreen.cpp(37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\settingsscreen.cpp(46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\settingsscreen.cpp(47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Spider.cpp
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(5): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(6): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(7): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(8): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(9): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(111): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(117): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\source\repos\projektcpp-master\symulacja hodowli robaków\symulacja hodowli robaków\spider.cpp(121): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  MenuScreen.cpp
+  UpdateSpider.cpp
+  Generowanie kodu...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: wystąpił konflikt typu maszyny modułu „x86” z typem maszyny docelowej „x64”
